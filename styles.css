@@ -1,0 +1,84 @@
+body {
+    background-color: #ffe2e2;
+    margin: 0 auto;
+    font-family: 'Merriweather', serif;
+   }
+
+#textpad {
+    padding: 20px
+}
+
+.wibu-text {
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 25px;
+}
+
+.name {
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+}   
+
+hr {
+    border-width: 3px;
+    background-color: #ffc7c7;
+    border-style: dotted none none;
+    height: 0px;
+    width: 10%;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+
+#header {
+    background-color: #e84a5f;
+    color: white;
+}
+
+h3 {
+    color: #e23e57;
+}
+
+h1 {
+    color:#fdfdfd;
+}
+
+li {
+    color: #fc5185;
+}
+
+td {
+    color: #fc5185;
+}
+
+th {
+    color: #903749;
+}
+
+label {
+    color: #e84a5f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#thanksnote {
+    font-family: 'Karma', serif;
+}
+
+
+#inputext {
+    font-family: 'Merriweather', serif;
+    padding: 20px;
+}
+
