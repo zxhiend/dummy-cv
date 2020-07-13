@@ -61,7 +61,14 @@ label {
     color: #e84a5f;
 }
 
+.contact {
+    display: inline;
+}
 
+.dancing {
+    position: absolute;
+    right: 20px;
+}
 
 
 
@@ -82,3 +89,10 @@ label {
     padding: 20px;
 }
 
+.dancing2 {
+    position: absolute;
+    left: 550px;
+    height: 300px;
+    width: 300px;
+
+}
